@@ -31,9 +31,7 @@ Striim Network is a service dedicated to bringing back the channels that support
 7. Launch Wii Mod Lite.
 8. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 9. Highlight the WAD named `Kirby-TV-Channel-Patched(Striim).wad`, then press the `A` button to install.
-10. When the WAD successfully installs, return to the Wii Menu and launch the channel.
-
-
+10. When the WAD successfully installs, return to the Wii Menu and launch the channel.=
 
 [Continue to RiiConnect24](riiconnect24)<br>
 RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
